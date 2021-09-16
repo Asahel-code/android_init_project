@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fetch</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">cancel</string>
+    <string name="value_of_score">Value of score</string>
+    <string name="average_score">Average score</string>
+    <string name="_0">0</string>
+    <string name="avarage_score">Avarage score</string>
+</resources>
